@@ -13,7 +13,7 @@
 name: OpenWrt Builder 128M
 
 on:
-  repository_dispatch:
+  # repository_dispatch:
   workflow_dispatch:
 
 # 防止多个构建同时运行
